@@ -148,11 +148,4 @@ Using `margin()` in MATLAB:
 
 **Kunal Gadhave**
 Mechatronics Engineering Student
-
----
-
-## ⭐ Acknowledgment
-
-This project was developed as part of Control Systems laboratory work.
-
 ---
